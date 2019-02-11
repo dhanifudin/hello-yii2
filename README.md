@@ -1,4 +1,4 @@
-Hello Yii2 Deployment Test Update
+Hello Yii2 Deployment Test Update OK
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
